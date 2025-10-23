@@ -1,0 +1,18 @@
+# ICS-Quadratic-Grader-Kangwa-Kapenda
+
+A single-page web app built using HTML and JavaScript.
+
+## Features
+1. Solves a quadratic equation (ax² + bx + c = 0)
+2. Converts numeric scores (0–100) to letter grades
+
+## How to Run
+- Download or clone the repository.
+- Open index.html in any browser (no installation needed).
+
+## Test Cases
+| Input | Expected Output |
+|--------|----------------|
+| a=1, b=-3, c=2 | Roots 1 and 2 |
+| Score=85 | Grade A+ |
+| Score=49 | Grade D |
